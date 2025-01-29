@@ -1,4 +1,3 @@
-Aqui está um exemplo de **README** para o seu código atual:
 
 ---
 
