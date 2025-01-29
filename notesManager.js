@@ -170,6 +170,9 @@ async function Menu() {
                 console.log("Saindo...")
                 process.exit(1)
             break;
+            default:
+                console.log("Selecione uma opção valida")
+                backToMenu()
 
         }
 }
