@@ -1,7 +1,7 @@
 
 # Bloco de Notas - Node.js
 
-Este é um aplicativo de linha de comando simples para criar, listar, ler e excluir anotações usando Node.js. Ele permite ao usuário interagir com o terminal para gerenciar suas notas de maneira prática e eficiente.
+Este é um aplicativo de linha de comando simples para criar, listar, ler e excluir anotações usando Node.js. Ele permite ao usuário interagir com o terminal para gerenciar suas notas de maneira prática.
 
 ---
 
